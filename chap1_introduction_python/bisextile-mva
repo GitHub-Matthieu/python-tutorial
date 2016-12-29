@@ -1,0 +1,5 @@
+year = input("input a year: ")
+is_bisextile = false
+
+if(year % 4 != 0):
+	print(is_bisextile)
