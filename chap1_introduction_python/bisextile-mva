@@ -1,3 +1,5 @@
+# --coding:Utf-8 -
+
 year = input("input a year: ")
 try:
 	year = int(year)
